@@ -1,2 +1,0 @@
-# AWS-
-NOTES FOR AWS
