@@ -1,4 +1,4 @@
-##🔥 1. Compute (Server chalane ke liye)
+##  🔥 1. Compute (Server chalane ke liye)
 - EC2 (Virtual server)
 - Lambda (Serverless) 
 - Elastic Beanstalk 
